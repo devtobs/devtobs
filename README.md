@@ -30,7 +30,13 @@ I'm a UI/UX Designer and a Web Developer  with a love for clean code, beautiful 
   Clean and responsive SaaS template built with HTML + Tailwind CSS  
   → [View on GitHub](https://github.com/devtobs/PastiLaris--SaaS-Web-Design-HTML-TailwindCSS)
 
-- *(Add more as you grow!)*
+    Clean and modern responsive homepage built with HTML + Tailwind CSS  
+  → [View on GitHub](https://github.com/devtobs/Kazan--HTML5-home-page.git)
+
+      
+    A responsive and modern transaction dashboard built with HTML, CSS, and Tailwind CSS. This project is designed to display transaction data in an intuitive and visually appealing way, featuring a sidebar navigation, transaction list, and status indicators.
+  → [View on GitHub](https://github.com/devtobs/Transaction-Dashboard.git)
+
 
 ---
 
